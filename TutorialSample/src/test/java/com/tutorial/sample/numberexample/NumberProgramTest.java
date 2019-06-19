@@ -18,6 +18,8 @@ public class NumberProgramTest {
 	@Before 
 	public void setUp(){
 		
+		int num1=0;
+		
 	}
 	
 	@After
